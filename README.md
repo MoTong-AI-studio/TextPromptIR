@@ -56,6 +56,11 @@ The testing data should be placed in the ```test``` directory wherein each task 
         ├───input
         └───target
 ```
+
+Since we used text generated embeddings, please use our code to generate embeddings or download our embedding file from the following link and put it in the main file.
+
+Link: https://pan.baidu.com/s/1g9eGbNM0znOdIEXssYAQtw?pwd=4kgx
+
 ## Citation
 If you find this project useful for your research, please consider citing:
 ~~~
