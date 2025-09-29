@@ -1,6 +1,6 @@
 # Textual Prompt Guided Image Restoration
 
-Qiuhai Yan, Aiwen Jiang, Kang Chen, Long Peng, Qiaosi Yi and Chunjie Zhang, "Textual Prompt Guided Image Restoration", arXiv, 2023 
+Qiuhai Yan, Aiwen Jiang, Kang Chen, Long Peng, Qiaosi Yi and Chunjie Zhang, "Textual Prompt Guided Image Restoration", EAAI, 2025 
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2312.06162)
 
